@@ -4,7 +4,7 @@ inStock = true;
 shipping = false;
 
 var elStock = document.getElementById('stock');
+elStock.className = inStock;
 
-el elShip = document.getElementById('shipping');
-
+var elShip = document.getElementById('shipping');
 elShip.className = shipping;
