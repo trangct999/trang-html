@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="405e55f4-9d47-4ba3-ac2b-a671508fa41f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/java01-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-listener-with-event-object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-listener-with-ie-fallback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-listener-with-parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c06/js/event-listener.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/add-element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/child.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/get-Elements by-Class-Name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/get-attribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/get-element-by-id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/get-elements-by-tag-name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/inner-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/inner-text-and-text-content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/node-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/node-value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/query-selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/remove-element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/set-attribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js/sibling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java27-7/c03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java27-7/c03/.idea/c03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java27-7/c03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java27-7/c03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java27-7/c03/js/basic-function.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../java27-7/c03/js/basic-function.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java27-7/c03/js/object-literal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../java27-7/c03/js/object-literal.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2CyGyHA39H8U6pXgxpdIlCiM8pF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/FPT Aptech/BTHTML/trang-html/java01-08/c06",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="405e55f4-9d47-4ba3-ac2b-a671508fa41f" name="Changes" comment="" />
+      <created>1659767663982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659767663982</updated>
+      <workItem from="1659767665629" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
